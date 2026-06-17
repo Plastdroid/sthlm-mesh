@@ -5,6 +5,8 @@ weight: 70
 
 {{% alert title="Varning" color="danger" %}}
 Hantera LiPo och Li-Ion-celler med försiktighet! De är högst reaktiva och känsliga för punktering / kortslutning.
+
+Kom också ihåg: Litium betyder INTE laddningsbart. Kolla upp batterier innan ni laddar de för att säkerställa att de går att ladda.
 {{% /alert %}}
 Precis som med en mikrokontroller så kommer man inte särskilt långt utan ström från ett batteri, såvida det inte är en fast inkopplad nod.
 
